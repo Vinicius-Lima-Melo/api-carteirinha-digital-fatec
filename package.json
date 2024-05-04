@@ -1,0 +1,14 @@
+{
+  "name": "api-carteirinha-digital-fatec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinicius Lima Melo",
+  "license": "ISC",
+  "dependencies": {
+    "fatec-api": "^1.5.0"
+  }
+}
